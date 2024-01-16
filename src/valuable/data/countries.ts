@@ -1,4 +1,4 @@
-export let countries = [
+export let countriesData = [
   {
     country: 'India',
 
